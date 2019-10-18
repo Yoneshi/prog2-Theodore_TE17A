@@ -1,0 +1,6 @@
+C:\Users\theodore.reangpusri\Documents\Visual Studio 2017\Projects\FightSimv1\FightSimv1\bin\Debug\FightSimv1.exe.config
+C:\Users\theodore.reangpusri\Documents\Visual Studio 2017\Projects\FightSimv1\FightSimv1\bin\Debug\FightSimv1.exe
+C:\Users\theodore.reangpusri\Documents\Visual Studio 2017\Projects\FightSimv1\FightSimv1\bin\Debug\FightSimv1.pdb
+C:\Users\theodore.reangpusri\Documents\Visual Studio 2017\Projects\FightSimv1\FightSimv1\obj\Debug\FightSimv1.csprojResolveAssemblyReference.cache
+C:\Users\theodore.reangpusri\Documents\Visual Studio 2017\Projects\FightSimv1\FightSimv1\obj\Debug\FightSimv1.exe
+C:\Users\theodore.reangpusri\Documents\Visual Studio 2017\Projects\FightSimv1\FightSimv1\obj\Debug\FightSimv1.pdb
